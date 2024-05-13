@@ -1,100 +1,95 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Sebastian Alejandro Asprino Ortiz",
+    "label": "Full Stack Developer con más de 2 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "contacto@asprino.dev",
+    "phone": "+57 3013046076",
+    "url": "https://asprino.dev",
+    "summary": "Soy un desarrollador full-stack apasionado con experiencia en la creación de soluciones innovadoras y eficientes. Como socio de Undercodes y Moecorp, tengo una trayectoria sólida en liderar proyectos y equipos para desarrollar Software de alta calidad.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "barranquilla",
+      "postalCode": "080012",
+      "city": "barranquilla",
+      "countryCode": "CO",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "sebastian-alejandro-asprino-ortiz-432075249",
+        "url": "https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "SebastianAsprino",
+        "url": "https://github.com/SebastianAsprino"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Undercodes",
+      "position": "Socio",
+      "url": "https://www.undercodes.net",
+      "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Socio de la empresa, brindando apoyo en los procesos administrativos y de desarrollo.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+  "education": [
+  {
+    "institution": "Universidad del Norte",
+    "url": "https://uninorte.edu.co/",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Superior",
+    "startDate": "2021-01-01",
+    "endDate": null,
+    "score": "5.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      ""
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
+  },
+  {
+    "institution": "SoyHenry",
+    "url": "https://",
+    "area": "FullStacks",
+    "studyType": "Superior",
+    "startDate": "2023-01-01",
+    "endDate": "2023-01-01",
+    "score": "5.0",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "Egg",
+    "url": "https://u",
+    "area": "Desarrollo web",
+    "studyType": "curso",
+    "startDate": "2024-01-01",
+    "endDate": "2024-01-01",
+    "score": "5.0",
+    "courses": [
+      ""
+    ]
+  },
+  {
+    "institution": "ALURA",
+    "url": "https://u/",
+    "area": "Desarrollo Frontend",
+    "studyType": "curso",
+    "startDate": "2025-01-01",
+    "endDate": null,
+    "score": "5.0",
+    "courses": [
+      ""
+    ]
+  }
+  ],
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
@@ -109,6 +104,13 @@
     "summary": "Description…"
   }],
   "skills": [
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -208,68 +210,72 @@
     "name": "Jane Doe",
     "reference": "Reference…"
   }],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "tc.asprino.dev",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicacion para hacer cifrado cesar y otras cosas asociadas con la teoria de codigos.",
       "highlights": [
-        "Elige tu propia aventura",
+        "Teoria de codigos",
+        "+1 mil visitas",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://tc.asprino.dev",
+      "github": "https://github.com/SebastianAsprino/Teoria_de_codigos"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Gura Player",
+      "isActive": false,
+      "description": "reproductor de musica creado con python.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "reproducdor de musica"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://tc.asprino.dev",
+      "github": "https://github.com/SebastianAsprino/GawrGura_Player"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Egg",
+      "isActive": false,
+      "description": "Entrega final EGG.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "frontend",
+        "diseño web"
       ],
-      "url": "https://codember.dev"
+      "url": "https://egg.asprino.dev",
+      "github": "https://github.com/SebastianAsprino/Egg"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Pokemons",
+      "isActive": false,
+      "description": "Proyecto final SoyHenry",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "fullstack",
+        "react",
+        "express"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://pokemons.asprino.dev",
+      "github": "https://github.com/SebastianAsprino/PI-Pokemon-main"
     }
   ]
 }
