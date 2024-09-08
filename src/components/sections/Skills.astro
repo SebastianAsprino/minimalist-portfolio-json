@@ -17,6 +17,17 @@ import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
 import Python from "@/icons/python.astro"
+import Rust from "@/icons/rust.astro"
+import Bun from "@/icons/bun.astro"
+import PostgreSQL from "@/icons/postgresql.astro"
+import SQLite from "@/icons/sqlite.astro"
+import Astro1 from "@/icons/Astro.astro"
+import Angular from "@/icons/angular.astro"
+import Django from "@/icons/django.astro"
+import Express from "@/icons/express.astro"
+import Cloudflare from "@/icons/cloudflare.astro"
+import Excel from "@/icons/excel.astro"
+
 
 
 const SKILLS_ICONS: Record<string, any> = {
@@ -35,7 +46,17 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
-  Python
+  Python,
+  Rust,
+  Bun,
+  PostgreSQL,
+  SQLite,
+  Astro1,
+  Angular,
+  Django,
+  Express,
+  Cloudflare,
+  Excel 
 }
 ---
 
@@ -43,7 +64,9 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        let iconName = name === "Next.js" ? "Next" : name
+        iconName = name === "Astro" ? "Astro1" : name
+        // iconName = name === "Express.js" ? "Express" : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (

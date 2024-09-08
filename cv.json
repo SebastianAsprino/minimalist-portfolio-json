@@ -1,94 +1,96 @@
 {
-  "basics": {
-    "name": "Sebastian Alejandro Asprino Ortiz",
-    "label": "Full Stack Developer con más de 2 años de experiencia",
-    "image": "/me.webp",
-    "email": "contacto@asprino.dev",
-    "phone": "+57 3013046076",
-    "url": "https://asprino.dev",
-    "summary": "Soy un desarrollador full-stack apasionado con experiencia en la creación de soluciones innovadoras y eficientes. Como socio de Undercodes y Moecorp, tengo una trayectoria sólida en liderar proyectos y equipos para desarrollar Software de alta calidad.",
-    "location": {
-      "address": "barranquilla",
-      "postalCode": "080012",
-      "city": "barranquilla",
-      "countryCode": "CO",
-      "region": "Colombia"
+    "basics": {
+      "name": "Sebastian Alejandro Asprino Ortiz",
+      "label": "Full Stack Developer con más de 2 años de experiencia",
+      "image": "/pfp.jpg",
+      "email": "contacto@asprino.dev",
+      "phone": "+57 3013046076",
+      "url": "https://asprino.dev",
+      "summary": "Soy un desarrollador full-stack apasionado con experiencia en la creación de soluciones innovadoras y eficientes. Como socio de Undercodes y Moecorp, tengo una trayectoria sólida en liderar proyectos y equipos para desarrollar Software de alta calidad.",
+      "location": {
+        "address": "barranquilla",
+        "postalCode": "",
+        "city": "barranquilla",
+        "countryCode": "CO",
+        "region": "Colombia"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "sebastian-alejandro-asprino-ortiz-432075249",
+          "url": "https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/"
+        },
+        {
+          "network": "GitHub",
+          "username": "SebastianAsprino",
+          "url": "https://github.com/SebastianAsprino"
+        }
+      ]
     },
-    "profiles": [
+    "work": [
       {
-        "network": "LinkedIn",
-        "username": "sebastian-alejandro-asprino-ortiz-432075249",
-        "url": "https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/"
+        "name": "UnderCodes S.A.S",
+        "position": "Cofounder y Director de Tecnología",
+        "url": "https://www.undercodes.net",
+        "startDate": "2025-01-01",
+        "endDate": null,
+        "summary": "Como cofundador y Director de Tecnología de UnderCodes S.A.S, desempeño un papel crucial en la definición de la dirección y estrategia tecnológica de nuestra startup. Desde enero de 2024, he sido fundamental en el establecimiento y crecimiento de las capacidades técnicas de nuestra empresa.",
+        "highlights": [
+          "startup"
+        ]
       },
       {
-        "network": "GitHub",
-        "username": "SebastianAsprino",
-        "url": "https://github.com/SebastianAsprino"
+        "name": "INNOVA",
+        "position": "Director de Ciberseguridad",
+        "url": "https://www.uninorte.edu.co/web/bienestar-universitario-2/innova",
+        "startDate": "2024-02-01",
+        "endDate": null       ,
+        "summary": "Como director de ciberseguridad en el comite cientifico estudiantil de ingeniera de sistemas, enseñe a los estudiantes mejores practicas referente a la seguridad de su codigo y charlas para los no ingenieros de sistemas para que se cuiden en internet.",
+        "highlights": [
+        ]
       }
-    ]
-  },
-  "work": [
-    {
-      "name": "Undercodes",
-      "position": "Socio",
-      "url": "https://www.undercodes.net",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "summary": "Socio de la empresa, brindando apoyo en los procesos administrativos y de desarrollo.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
+    ],
   "education": [
-  {
-    "institution": "Universidad del Norte",
-    "url": "https://uninorte.edu.co/",
-    "area": "Ingeniero de Sistemas",
-    "studyType": "Superior",
-    "startDate": "2021-01-01",
-    "endDate": null,
-    "score": "5.0",
-    "courses": [
-      ""
-    ]
-  },
-  {
-    "institution": "SoyHenry",
-    "url": "https://",
-    "area": "FullStacks",
-    "studyType": "Superior",
-    "startDate": "2023-01-01",
-    "endDate": "2023-01-01",
-    "score": "5.0",
-    "courses": [
-      ""
-    ]
-  },
-  {
-    "institution": "Egg",
-    "url": "https://u",
-    "area": "Desarrollo web",
-    "studyType": "curso",
-    "startDate": "2024-01-01",
-    "endDate": "2024-01-01",
-    "score": "5.0",
-    "courses": [
-      ""
-    ]
-  },
-  {
-    "institution": "ALURA",
-    "url": "https://u/",
-    "area": "Desarrollo Frontend",
-    "studyType": "curso",
-    "startDate": "2024-02-01",
-    "endDate": " 2024-07-17",
-    "score": "5.0",
-    "courses": [
-      ""
-    ]
-  }
+    {
+      "institution": "Universidad del Norte",
+      "url": "https://uninorte.edu.co/",
+      "area": "Ingeniero de Sistemas",
+      "studyType": "Superior",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "score": "5.0",
+      "courses": []
+    },
+    {
+      "institution": "Egg",
+      "url": "https://egg.live/es/home",
+      "area": "Desarrollo web",
+      "studyType": "Certificado",
+      "startDate": "2023-10-23",
+      "endDate": "2023-12-17",
+      "score": "5.0",
+      "courses": []
+    },
+    {
+      "institution": "ORACLE ONE ALURA",
+      "url": "https://app.aluracursos.com/user/asprinosebastian",
+      "area": "Desarrollor Frontend",
+      "studyType": "curso",
+      "startDate": "2024-01-17",
+      "endDate": " 2024-06-22",
+      "score": "5.0",
+      "courses": []
+    },
+    {
+      "institution": "Coursera",
+      "url": "https://www.coursera.org",
+      "area": "Ciberseguridad",
+      "studyType": "curso",
+      "startDate": "2024-02-01",
+      "endDate": " 2024-07-17",
+      "score": "5.0",
+      "courses": []
+    }
   ],
   "certificates": [{
     "name": "Certificate",
@@ -105,67 +107,336 @@
   }],
   "skills": [
     {
+      "name": "Rust",
+      "level": "Master",
+      "keywords": [
+        "Sistemas Embebidos",
+        "Programación Concurrencia",
+        "Seguridad de Memoria",
+        "Desarrollo de Software Seguro",
+        "Programación Asíncrona",
+        "Compilación Eficiente",
+        "Manipulación de Bajo Nivel",
+        "Performance Alta",
+        "Desarrollo Web",
+        "Desarrollo Backend",
+        "Desarrollo de APIs REST",
+        "Programación Funcional",
+        "Concurrencia y Paralelismo",
+        "Gestión de Memoria Manual",
+        "Interfaces Externas",
+        "Blockchain y Web3",
+        "Desarrollo en WASM (WebAssembly)",
+        "Compiladores e Interpretadores"  
+      ]
+    },
+    {
       "name": "Python",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend"
+        "Desarrollo Web",
+        "Automatización de Tareas",
+        "Ciencia de Datos",
+        "Análisis de Datos",
+        "Inteligencia Artificial",
+        "Machine Learning",
+        "Desarrollo Backend",
+        "Desarrollo de APIs REST",
+        "Programación Asíncrona",
+        "Web Scraping",
+        "Scripting y Automatización",
+        "Desarrollo de Software Seguro",
+        "Cómputo Científico",
+        "Visualización de Datos",
+        "DevOps y Automatización de Infraestructura",
+        "Interfaces Externas",
+        "Desarrollo de Aplicaciones de Escritorio",
+        "Seguridad Informática",
+        "Blockchain y Web3",
+        "Desarrollo de Juegos",
+        "Sistemas Embebidos",
+        "Computación Distribuida"
       ]
     },
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+        "Desarrollo Web",
+        "Maquetación de Páginas Web",
+        "Diseño Responsivo",
+        "Accesibilidad Web",
+        "SEO (Optimización para Motores de Búsqueda)",
+        "HTML5",
+        "Integración con CSS",
+        "Integración con JavaScript",
+        "Desarrollo de Formularios",
+        "Optimización de Performance",
+        "Semántica Web",
+        "Microdatos y Microformatos",
+        "Estructura de Documentos",
+        "Multimedia Integrada",
+        "API de Canvas",
+        "Web Components",
+        "SEO Técnico",
+        "Desarrollo Web Progresivo (PWA)",
+        "Interactividad con JavaScript",
+        "Compatibilidad Cross-Browser"
+      ]      
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+        "Diseño Responsivo",
+        "Animaciones CSS",
+        "Flexbox",
+        "Grid Layout",
+        "Preprocesadores CSS (Sass, Less)",
+        "Variables CSS",
+        "Transiciones",
+        "Transformaciones",
+        "Diseño de Interfaz de Usuario (UI)",
+        "Tipografía Web",
+        "Diseño Adaptativo",
+        "Media Queries",
+        "Optimización de Performance",
+        "CSS3",
+        "Frameworks CSS (Bootstrap, Tailwind)",
+        "Efectos Visuales",
+        "Gestión de Layouts",
+        "Accesibilidad Web",
+        "Temas Oscuros y Claros",
+        "Estilos Condicionales",
+        "Compatibilidad Cross-Browser"
+      ]      
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+        "Programación Asíncrona",
+        "Manipulación del DOM",
+        "Ajax",
+        "Frameworks JavaScript (React, Angular, Vue)",
+        "Node.js",
+        "Desarrollo Full-Stack",
+        "APIs REST",
+        "Fetch API",
+        "ES6+",
+        "Promises",
+        "Callbacks",
+        "Async/Await",
+        "Eventos y Listeners",
+        "Manipulación de Fechas",
+        "Desarrollo de Aplicaciones Web",
+        "WebSockets",
+        "LocalStorage y SessionStorage",
+        "Programación Funcional",
+        "Closures",
+        "Hoisting",
+        "Manejo de Errores",
+        "Desarrollo de Juegos",
+        "Compatibilidad Cross-Browser",
+        "Service Workers",
+        "Desarrollo Web Progresivo (PWA)"
+      ]      
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
+        "Programación Asíncrona",
+        "Manipulación del DOM",
+        "Ajax",
+        "Frameworks JavaScript (React, Angular, Vue)",
+        "Node.js",
+        "Desarrollo Full-Stack",
+        "APIs REST",
+        "Fetch API",
+        "ES6+",
+        "Promises",
+        "Callbacks",
+        "Async/Await",
+        "Eventos y Listeners",
+        "Manipulación de Fechas",
+        "Desarrollo de Aplicaciones Web",
+        "WebSockets",
+        "LocalStorage y SessionStorage",
+        "Programación Funcional",
+        "Closures",
+        "Hoisting",
+        "Manejo de Errores",
+        "Desarrollo de Juegos",
+        "Compatibilidad Cross-Browser",
+        "Service Workers",
+        "Desarrollo Web Progresivo (PWA)"
+      ]      
     },
     {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+        "JavaScript en el Servidor",
+        "Programación Asíncrona",
+        "API de Node.js",
+        "NPM (Node Package Manager)",
+        "Express.js",
+        "Desarrollo Backend",
+        "Desarrollo de APIs REST",
+        "Middleware",
+        "Base de Datos (MongoDB, PostgreSQL, MySQL)",
+        "Gestión de Rutas",
+        "Desarrollo de Microservicios",
+        "Streams",
+        "File System",
+        "Sockets (WebSocket)",
+        "Autenticación y Autorización",
+        "Estructura de Proyectos",
+        "Desarrollo de Aplicaciones en Tiempo Real",
+        "Manejo de Errores",
+        "Pruebas y Testing",
+        "Optimización de Performance",
+        "Desarrollo de CLI (Command Line Interface)",
+        "Despliegue y Escalabilidad",
+        "Integración con Frontend"
+      ]      
+    },
+    {
+      "name": "Bun",
+      "level": "Avanzado",
+      "keywords": [
+        "JavaScript Runtime",
+        "Velocidad de Ejecución",
+        "Gestión de Paquetes",
+        "Desarrollo Backend",
+        "Compatibilidad con Node.js",
+        "Ecosistema de Paquetes",
+        "Rendimiento Alto",
+        "Desarrollo de APIs",
+        "Transpilación y Bundling",
+        "Automatización de Tareas",
+        "CLI (Command Line Interface)",
+        "Desarrollo Full-Stack",
+        "Integración con Frameworks JavaScript",
+        "Manejo de Dependencias",
+        "Desarrollo de Aplicaciones en Tiempo Real",
+        "Optimización de Performance",
+        "Despliegue y Escalabilidad",
+        "Pruebas y Testing",
+        "Ecosistema de Plugins",
+        "Compatibilidad con módulos ES"
+      ]      
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Sistema de Gestión de Bases de Datos (DBMS)",
+        "SQL (Structured Query Language)",
+        "Modelado de Datos",
+        "Consultas SQL",
+        "Índices y Optimización de Consultas",
+        "Transacciones y ACID",
+        "Procedimientos Almacenados",
+        "Triggers (Disparadores)",
+        "Funciones y Vistas",
+        "Normalización y Desnormalización",
+        "Gestión de Usuarios y Permisos",
+        "Copias de Seguridad y Recuperación",
+        "Replicación de Bases de Datos",
+        "Escalabilidad",
+        "Manejo de Grandes Volúmenes de Datos",
+        "Manejo de Datos Relacionales",
+        "Integración con Aplicaciones Web",
+        "Manejo de Conexiones",
+        "Seguridad en Bases de Datos",
+        "Optimización del Rendimiento",
+        "Backup y Restauración"
+      ]      
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Sistema de Gestión de Bases de Datos (DBMS)",
+        "SQL (Structured Query Language)",
+        "Modelado de Datos",
+        "Consultas SQL",
+        "Índices y Optimización de Consultas",
+        "Transacciones y ACID",
+        "Procedimientos Almacenados",
+        "Triggers (Disparadores)",
+        "Funciones y Vistas",
+        "Normalización y Desnormalización",
+        "Gestión de Usuarios y Permisos",
+        "Copias de Seguridad y Recuperación",
+        "Replicación y Clustering",
+        "Escalabilidad",
+        "Manejo de Datos No Relacionales (JSON, XML)",
+        "Extensiones (PostGIS, Full-Text Search)",
+        "Optimización de Rendimiento",
+        "Seguridad en Bases de Datos",
+        "Manejo de Conexiones",
+        "Integración con Aplicaciones Web",
+        "Backup y Restauración",
+        "Procedimientos de Mantenimiento",
+        "Analítica y Reporting"
+      ]      
+    },
+    {
+      "name": "SQLite",
+      "level": "Avanzado",
+      "keywords": [
+        "Sistema de Gestión de Bases de Datos (DBMS)",
+        "SQL (Structured Query Language)",
+        "Base de Datos Embebida",
+        "Consultas SQL",
+        "Índices y Optimización de Consultas",
+        "Transacciones y ACID",
+        "Procedimientos Almacenados (limitado)",
+        "Triggers (Disparadores)",
+        "Funciones y Vistas",
+        "Normalización y Desnormalización",
+        "Gestión de Usuarios y Permisos (limitado)",
+        "Copias de Seguridad y Recuperación",
+        "Rendimiento en Dispositivos Móviles",
+        "Manejo de Datos Relacionales",
+        "Integración con Aplicaciones Web",
+        "Manejo de Conexiones Simples",
+        "Seguridad Básica en Bases de Datos",
+        "Backup y Restauración",
+        "Despliegue en Aplicaciones Locales",
+        "Desarrollo de Aplicaciones Móviles",
+        "Soporte para SQL Lite"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+        "Control de Versiones",
+        "Gestión de Repositorios",
+        "Branching y Merging",
+        "Commits",
+        "Etiquetas (Tags)",
+        "Historial de Cambios",
+        "Resolución de Conflictos",
+        "Repositorios Remotos",
+        "Colaboración en Equipo",
+        "Staging Area",
+        "Rebase",
+        "Cherry-Picking",
+        "Clonación de Repositorios",
+        "Push y Pull",
+        "Configuración de Git",
+        "Git Hooks",
+        "Submódulos",
+        "Revisión de Código",
+        "Automatización de Integración Continua",
+        "Git Flow y Otras Estrategias de Branching",
+        "Backup y Recuperación de Repositorios"
+      ]      
     },
     {
       "name": "GitHub",
@@ -175,18 +446,141 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Kotlin",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+        "Programación en JVM",
+        "Interoperabilidad con Java",
+        "Sintaxis Concisa",
+        "Null Safety",
+        "Programación Funcional",
+        "Programación Orientada a Objetos",
+        "Coroutines",
+        "Desarrollo Android",
+        "Kotlin Multiplatform",
+        "DSL (Domain-Specific Languages)",
+        "Extensiones de Funciones",
+        "Lambdas y Funciones de Orden Superior",
+        "Manejo de Excepciones",
+        "Bibliotecas de Kotlin",
+        "Testing",
+        "Frameworks de Kotlin (Ktor, Spring Boot)",
+        "Desarrollo Web",
+        "Manejo de Colecciones",
+        "Tipos de Datos Inmutables",
+        "Operadores de Comparación",
+        "Compilación y Optimización",
+        "Análisis Estático de Código"
+      ]      
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+        "Librería de UI",
+        "Componentes Reactivos",
+        "Estado y Props",
+        "Hooks",
+        "Virtual DOM",
+        "JSX (JavaScript XML)",
+        "Enrutamiento (React Router)",
+        "Manejo del Estado Global (Redux, Context API)",
+        "Componentes Funcionales y de Clase",
+        "Renderizado Condicional",
+        "Eventos y Manejo de Eventos",
+        "Ciclo de Vida de Componentes",
+        "Optimización de Rendimiento",
+        "Testing de Componentes (Jest, React Testing Library)",
+        "Desarrollo de Formularios",
+        "Renderizado del Lado del Servidor (SSR)",
+        "Desarrollo de Aplicaciones SPA",
+        "Manejo de Efectos Secundarios (useEffect)",
+        "Patrones de Diseño de Componentes",
+        "Integración con API",
+        "Gestión de Estilos (CSS-in-JS, Styled Components)",
+        "Desarrollo con TypeScript",
+        "Construcción y Despliegue"
+      ]      
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Generador de Sitios Estáticos",
+        "Renderizado del Lado del Servidor (SSR)",
+        "Desarrollo Frontend",
+        "Componentes Isomórficos",
+        "Integración con React, Vue, Svelte",
+        "Optimización de Rendimiento",
+        "Manejo de Datos",
+        "Enrutamiento",
+        "Preprocesadores (Sass, Less)",
+        "Generación de HTML Estático",
+        "Optimización de Imágenes",
+        "Integración con CMS (Content Management Systems)",
+        "Interoperabilidad de Frameworks",
+        "Configuración y Plugins",
+        "Componentes Dinámicos",
+        "API de Datos",
+        "Desarrollo de Páginas Web Rápidas",
+        "Desarrollo de Sitios Web Progresivos (PWA)",
+        "Despliegue y Construcción",
+        "Temporización de Componentes",
+        "Manejo de Datos y API"
+      ]      
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Framework Frontend",
+        "TypeScript",
+        "Componentes",
+        "Enrutamiento",
+        "Data Binding",
+        "Servicios e Inyección de Dependencias",
+        "Directivas",
+        "Pipes",
+        "Reactive Forms",
+        "Template-driven Forms",
+        "RxJS",
+        "Modularidad",
+        "CLI (Command Line Interface)",
+        "Optimización de Rendimiento",
+        "Pruebas y Testing (Karma, Jasmine)",
+        "Desarrollo de Aplicaciones SPA",
+        "HTTP Client",
+        "NgModules",
+        "Manejo de Estado",
+        "Seguridad y Autenticación",
+        "Desarrollo con TypeScript",
+        "Despliegue y Construcción"
+      ]      
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": []      
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": []      
+    },
+    {
+      "name": "Cloudflare",
+      "level": "Avanzado",
+      "keywords": []      
+    },
+    {
+      "name": "excel",
+      "level": "Avanzado",
+      "keywords": []      
+    },  
+    {
+      "name": "SCRUM",
+      "level": "Avanzado",
+      "keywords": []      
     }
   ],
   "languages": [
@@ -231,51 +625,72 @@
 
 
 
-  "projects": [
-    {
-      "name": "tc.asprino.dev",
-      "isActive": true,
-      "description": "Aplicacion para hacer cifrado cesar y otras cosas asociadas con la teoria de codigos.",
-      "highlights": [
-        "Teoria de codigos",
-        "+1 mil visitas",
-        "En desarrollo"
-      ],
-      "url": "https://tc.asprino.dev",
-      "github": "https://github.com/SebastianAsprino/Teoria_de_codigos"
-    },
-    {
-      "name": "Gura Player",
-      "isActive": false,
-      "description": "reproductor de musica creado con python.",
-      "highlights": [
-        "reproducdor de musica"
-      ],
-      "url": "https://tc.asprino.dev",
-      "github": "https://github.com/SebastianAsprino/GawrGura_Player"
-    },
-    {
-      "name": "Egg",
-      "isActive": false,
-      "description": "Entrega final EGG.",
-      "highlights": [
-        "frontend",
-        "diseño web"
-      ],
-      "url": "https://egg.asprino.dev",
-      "github": "https://github.com/SebastianAsprino/Egg"
-    },
-    {
-      "name": "Pokemons",
-      "isActive": false,
-      "description": "Proyecto final SoyHenry",
-      "highlights": [
-        "fullstack",
-        "react",
-        "express"
-      ],
-      "url": "https://pokemons.asprino.dev",
-      "github": "https://github.com/SebastianAsprino/PI-Pokemon-main"
-    }
-  ]
+  "projects": [{
+    "isActive": true,
+    "name": "tc.asprino.dev",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Aplicacion para hacer cifrado cesar y otras cosas asociadas con la teoria de codigos.",
+    "highlights": [
+      "Teoria de codigos",
+      "+1 mil visitas",
+      "En desarrollo"
+    ],
+    "url": "https://tc.asprino.dev",
+    "github": "https://github.com/SebastianAsprino/Teoria_de_codigos"
+  },
+  {
+    "isActive": false,
+    "name": "Gura Player",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "reproductor de musica creado con python.",
+    "highlights": [
+      "reproducdor de musica"
+    ],
+    "url": null,
+    "github": "https://github.com/SebastianAsprino/GawrGura_Player" 
+  },
+  {
+    "isActive": false,
+    "name": "Egg",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Entrega final EGG.",
+    "highlights": [
+      "frontend",
+      "diseño web"
+    ],
+    "url": "https://egg.asprino.dev",
+    "github": "https://github.com/SebastianAsprino/Egg"
+  },
+  {
+    "isActive": false,
+    "name": "Pokemons",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Proyecto final SoyHenry",
+    "highlights": [
+      "fullstack",
+      "react",
+      "express"
+    ],
+    "url": "https://pokemons.asprino.dev",
+    "github": "https://github.com/SebastianAsprino/PI-Pokemon-main"
+  },
+  {
+    "isActive": true,
+    "name": "MoeFinans",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Gestos de gastos Opensource escrito en rust para pc y android",
+    "highlights": [
+      "En desarrollo",
+      "Open source",
+      "FOSS"
+    ],
+    "url": null,
+    "github": "https://github.com/Moe-Corp/MoeFinans_Desktop"
+  }
+]
 }
